@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fruit machine</string>
+    <string name="tytul">Fruit machine</string>
+    <string name="graj">PLAY</string>
+    <string name="nowa_gra">Throw a coin</string>
+</resources>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jednoręki bandyta</string>
+    <string name="tytul">Jednoręki bandyta</string>
+    <string name="graj">GRAJ</string>
+    <string name="nowa_gra">Wrzuć monetę</string>
+</resources>
